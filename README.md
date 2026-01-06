@@ -2,7 +2,7 @@
 Simple web-based calculator built with HTML, CSS, and JavaScript.
 
 
-📌 Description:
+### 📌 Description:
 
 This project is a simple and interactive Calculator Web Application built using HTML and CSS with basic JavaScript logic embedded in HTML.
 It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a clean and user-friendly interface.
