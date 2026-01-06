@@ -27,12 +27,12 @@ Perform basic arithmetic operations:
 
 ### Technologies Used:
 
-HTML5 – Structure of the calculator
+- HTML5 – Structure of the calculator
 
-CSS3 – Styling and layout
+- CSS3 – Styling and layout
 
-JavaScript – Calculator logic (inline event handling)
+- JavaScript – Calculator logic (inline event handling)
 
-Responsive and centered layout
+- Responsive and centered layout
 
-Simple and clean UI design
+- Simple and clean UI design
