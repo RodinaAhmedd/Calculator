@@ -11,21 +11,28 @@ The project is mainly designed to practice DOM interaction, event handling, and 
 🚀 Features:
 
 Perform basic arithmetic operations:
+
 Addition (+)
+
 Subtraction (−)
+
 Multiplication (×)
+
 Division (÷)
+
 Clear all input using AC button
+
 Delete the last entered character using DEL
+
 Supports decimal numbers
 
-# Technologies Used:
+Technologies Used:
 
 HTML5 – Structure of the calculator
+
 CSS3 – Styling and layout
+
 JavaScript – Calculator logic (inline event handling)
-
-
 
 Responsive and centered layout
 
