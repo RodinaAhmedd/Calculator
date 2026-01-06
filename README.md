@@ -8,25 +8,24 @@ This project is a simple and interactive Calculator Web Application built using 
 It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through a clean and user-friendly interface.
 The project is mainly designed to practice DOM interaction, event handling, and UI styling using pure front-end technologies without any external libraries.
 
-🚀 Features:
+### 🚀 Features:
 
 Perform basic arithmetic operations:
 
-Addition (+)
+- Addition (+)
 
-Subtraction (−)
+- Subtraction (−)
 
-Multiplication (×)
+- Multiplication (×)
 
-Division (÷)
+- Division (÷)
 
-Clear all input using AC button
+- Clear all input using AC button
 
-Delete the last entered character using DEL
+- Delete the last entered character using DEL
+- Supports decimal numbers
 
-Supports decimal numbers
-
-Technologies Used:
+### Technologies Used:
 
 HTML5 – Structure of the calculator
 
